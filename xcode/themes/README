@@ -1,0 +1,5 @@
+To install a theme, copy the .xccolortheme file to:
+
+  ~/Library/Application Support/XCode/Color Themes
+
+Then you should see it in the list of available themes in the XCode preferences.
